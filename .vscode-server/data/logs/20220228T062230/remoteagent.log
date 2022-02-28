@@ -254,3 +254,25 @@
 [2022-02-28 11:16:39.507] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/mhutchie.git-graph-1.30.0
 [2022-02-28 11:16:39.509] [remoteagent] [info] Extracting completed. mhutchie.git-graph
 [2022-02-28 11:16:39.510] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph
+[2022-02-28 11:25:16.481] [remoteagent] [info] [127.0.0.1][b2541368][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 11:25:16.578] [remoteagent] [info] [127.0.0.1][277f7085][ExtensionHostConnection] <13708> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 11:25:16.578] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 11:25:46.448] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 11:25:46.448] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:25:47.343] [remoteagent] [info] [127.0.0.1][24bb9d4c][ManagementConnection] New connection established.
+[2022-02-28 11:25:47.735] [remoteagent] [info] [127.0.0.1][83c8a9c2][ExtensionHostConnection] New connection established.
+[2022-02-28 11:25:47.743] [remoteagent] [info] [127.0.0.1][83c8a9c2][ExtensionHostConnection] <26374> Launched Extension Host Process.
+[2022-02-28 11:26:04.559] [remoteagent] [info] [127.0.0.1][24bb9d4c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 11:26:04.578] [remoteagent] [info] [127.0.0.1][83c8a9c2][ExtensionHostConnection] <26374> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 11:26:04.579] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:26:04.579] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 11:26:11.278] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 11:26:11.279] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:26:12.213] [remoteagent] [info] [127.0.0.1][c217541b][ManagementConnection] New connection established.
+[2022-02-28 11:26:12.591] [remoteagent] [info] [127.0.0.1][c6599d13][ExtensionHostConnection] New connection established.
+[2022-02-28 11:26:12.595] [remoteagent] [info] [127.0.0.1][c6599d13][ExtensionHostConnection] <26531> Launched Extension Host Process.
+[2022-02-28 11:26:43.053] [remoteagent] [info] [127.0.0.1][c217541b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 11:26:43.095] [remoteagent] [info] [127.0.0.1][c6599d13][ExtensionHostConnection] <26531> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 11:26:43.095] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:26:43.095] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 11:31:43.096] [remoteagent] [info] Last EH closed, shutting down

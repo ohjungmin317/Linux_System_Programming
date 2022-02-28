@@ -1,0 +1,328 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 43303
+
+[06:22:30] Extension host agent started.
+[06:22:31] [127.0.0.1][3e9b4c13][ManagementConnection] New connection established.
+[06:22:31] [127.0.0.1][e8f7df35][ExtensionHostConnection] New connection established.
+[06:22:31] [127.0.0.1][e8f7df35][ExtensionHostConnection] <1496> Launched Extension Host Process.
+[06:23:41] [127.0.0.1][3e9b4c13][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:23:41] [127.0.0.1][e8f7df35][ExtensionHostConnection] <1496> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:23:41] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:23:50] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:23:50] Cancelling previous shutdown timeout
+[06:23:51] [127.0.0.1][dad2a5bd][ManagementConnection] New connection established.
+[06:23:51] [127.0.0.1][8ea5ad77][ExtensionHostConnection] New connection established.
+[06:23:51] [127.0.0.1][8ea5ad77][ExtensionHostConnection] <1660> Launched Extension Host Process.
+[06:26:22] [127.0.0.1][dad2a5bd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:26:22] [127.0.0.1][8ea5ad77][ExtensionHostConnection] <1660> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[06:26:22] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[06:26:22] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:26:40] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:26:40] Cancelling previous shutdown timeout
+[06:26:41] [127.0.0.1][72855797][ManagementConnection] New connection established.
+[06:26:41] [127.0.0.1][18d245d5][ExtensionHostConnection] New connection established.
+[06:26:41] [127.0.0.1][18d245d5][ExtensionHostConnection] <1899> Launched Extension Host Process.
+[06:26:49] [127.0.0.1][72855797][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:26:49] [127.0.0.1][18d245d5][ExtensionHostConnection] <1899> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[06:26:49] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[06:26:49] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:26:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:26:57] Cancelling previous shutdown timeout
+[06:26:58] [127.0.0.1][d178df41][ManagementConnection] New connection established.
+[06:26:58] [127.0.0.1][542b3e2a][ExtensionHostConnection] New connection established.
+[06:26:58] [127.0.0.1][542b3e2a][ExtensionHostConnection] <2055> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[06:31:57] New EH opened, aborting shutdown
+[06:46:58] [127.0.0.1][d178df41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:46:58] [127.0.0.1][542b3e2a][ExtensionHostConnection] <2055> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:46:58] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:47:11] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:47:11] Cancelling previous shutdown timeout
+[06:47:12] [127.0.0.1][06535997][ManagementConnection] New connection established.
+[06:47:13] [127.0.0.1][f38ff6b9][ExtensionHostConnection] New connection established.
+[06:47:13] [127.0.0.1][f38ff6b9][ExtensionHostConnection] <2603> Launched Extension Host Process.
+[06:47:37] [127.0.0.1][06535997][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:47:37] [127.0.0.1][f38ff6b9][ExtensionHostConnection] <2603> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[06:47:37] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[06:47:37] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:47:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:47:43] Cancelling previous shutdown timeout
+[06:47:44] [127.0.0.1][05d7d92e][ManagementConnection] New connection established.
+[06:47:44] [127.0.0.1][41181490][ExtensionHostConnection] New connection established.
+[06:47:44] [127.0.0.1][41181490][ExtensionHostConnection] <2757> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[06:52:43] New EH opened, aborting shutdown
+[08:20:29] [127.0.0.1][05d7d92e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:20:29] [127.0.0.1][41181490][ExtensionHostConnection] <2757> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:20:29] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:20:50] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:20:50] Cancelling previous shutdown timeout
+[08:20:51] [127.0.0.1][4d24a6c4][ManagementConnection] New connection established.
+[08:20:51] [127.0.0.1][91d900d1][ExtensionHostConnection] New connection established.
+[08:20:51] [127.0.0.1][91d900d1][ExtensionHostConnection] <3354> Launched Extension Host Process.
+[08:21:03] [127.0.0.1][4d24a6c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:21:03] [127.0.0.1][91d900d1][ExtensionHostConnection] <3354> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[08:21:03] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[08:21:03] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:21:09] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:21:09] Cancelling previous shutdown timeout
+[08:21:10] [127.0.0.1][31f12189][ManagementConnection] New connection established.
+[08:21:11] [127.0.0.1][0aec012a][ExtensionHostConnection] New connection established.
+[08:21:11] [127.0.0.1][0aec012a][ExtensionHostConnection] <3508> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[08:26:09] New EH opened, aborting shutdown
+[08:46:43] Getting Manifest... ms-vscode.cpptools
+[08:46:43] Installing extension: ms-vscode.cpptools
+[08:46:44] Downloaded extension: ms-vscode.cpptools /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.8.4-linux-x64
+[08:46:48] Extracted extension to /home/ubuntu/.vscode-server/extensions/.7c2a7786-537d-4d5e-b2de-8adb06b3e457: ms-vscode.cpptools
+[08:46:48] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.8.4
+[08:46:48] Extracting completed. ms-vscode.cpptools
+[08:46:48] Extension installed successfully: ms-vscode.cpptools
+[09:06:29] [127.0.0.1][31f12189][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:06:29] [127.0.0.1][0aec012a][ExtensionHostConnection] <3508> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[09:06:29] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[09:06:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[09:06:43] Cancelling previous shutdown timeout
+[09:06:44] [127.0.0.1][bf1b76d0][ManagementConnection] New connection established.
+[09:06:44] [127.0.0.1][05fdb4bd][ExtensionHostConnection] New connection established.
+[09:06:44] [127.0.0.1][05fdb4bd][ExtensionHostConnection] <9664> Launched Extension Host Process.
+[09:07:01] [127.0.0.1][bf1b76d0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:07:01] [127.0.0.1][05fdb4bd][ExtensionHostConnection] <9664> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[09:07:01] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[09:07:01] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[09:07:09] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[09:07:09] Cancelling previous shutdown timeout
+[09:07:10] [127.0.0.1][10cd0612][ManagementConnection] New connection established.
+[09:07:11] [127.0.0.1][516f8518][ExtensionHostConnection] New connection established.
+[09:07:11] [127.0.0.1][516f8518][ExtensionHostConnection] <9817> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[09:12:09] New EH opened, aborting shutdown
+[09:37:38] [127.0.0.1][10cd0612][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/f80445acd5a3dadef24aa209168452a3d97cc326/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[10:17:55] [127.0.0.1][10cd0612][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:17:55] [127.0.0.1][205454e4][ManagementConnection] New connection established.
+[10:17:55] [127.0.0.1][7237f99d][ExtensionHostConnection] New connection established.
+[10:17:55] [127.0.0.1][7237f99d][ExtensionHostConnection] <10970> Launched Extension Host Process.
+[10:18:04] [127.0.0.1][205454e4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:18:04] [127.0.0.1][7237f99d][ExtensionHostConnection] <10970> Extension Host Process exited with code: 0, signal: null.
+[10:18:11] [127.0.0.1][e49c6295][ManagementConnection] New connection established.
+[10:18:12] [127.0.0.1][b776e9f6][ExtensionHostConnection] New connection established.
+[10:18:12] [127.0.0.1][b776e9f6][ExtensionHostConnection] <11124> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "50": Replaying 669 chars and 1 size events
+[10:22:55] [127.0.0.1][10cd0612][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[10:22:55] [127.0.0.1][516f8518][ExtensionHostConnection] <9817> Extension Host Process exited with code: 0, signal: null.
+[10:35:17] [127.0.0.1][e49c6295][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:35:17] [127.0.0.1][b776e9f6][ExtensionHostConnection] <11124> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:35:17] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:35:30] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:35:30] Cancelling previous shutdown timeout
+[10:35:31] [127.0.0.1][e3ea62cb][ManagementConnection] New connection established.
+[10:35:32] [127.0.0.1][84ce59c2][ExtensionHostConnection] New connection established.
+[10:35:32] [127.0.0.1][84ce59c2][ExtensionHostConnection] <12011> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "69": Replaying 894 chars and 1 size events
+[10:37:03] [127.0.0.1][e3ea62cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:37:03] [127.0.0.1][84ce59c2][ExtensionHostConnection] <12011> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:37:03] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[10:37:03] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:37:14] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:37:14] Cancelling previous shutdown timeout
+[10:37:15] [127.0.0.1][ccb0582e][ManagementConnection] New connection established.
+[10:37:15] [127.0.0.1][1673b7ce][ExtensionHostConnection] New connection established.
+[10:37:15] [127.0.0.1][1673b7ce][ExtensionHostConnection] <12343> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "76": Replaying 1079 chars and 1 size events
+[10:37:38] Getting Manifest... ms-vscode.cpptools-extension-pack
+[10:37:38] Installing extension: ms-vscode.cpptools-extension-pack
+[10:37:38] Getting Manifest... ms-vscode-remote.remote-wsl
+[10:37:38] Getting Manifest... ms-vscode-remote.remote-containers
+[10:37:38] Getting Manifest... ms-vscode-remote.remote-ssh
+[10:37:39] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+[10:37:39] Getting Manifest... ms-vscode.cmake-tools
+[10:37:39] Getting Manifest... twxs.cmake
+[10:37:39] Getting Manifest... twxs.cmake
+[10:37:39] Getting Manifest... jeff-hykin.better-cpp-syntax
+[10:37:39] Getting Manifest... ms-vscode.cpptools-themes
+[10:37:39] Getting Manifest... cschlosser.doxdocgen
+[10:37:39] Installing extension: ms-vscode-remote.remote-wsl
+[10:37:39] Installing extension: ms-vscode-remote.remote-containers
+[10:37:39] Installing extension: ms-vscode-remote.remote-ssh
+[10:37:39] Installing extension: ms-vscode-remote.remote-ssh-edit
+[10:37:39] Installing extension: ms-vscode.cmake-tools
+[10:37:39] Installing extension: twxs.cmake
+[10:37:39] Extension is already requested to install twxs.cmake
+[10:37:39] Installing extension: jeff-hykin.better-cpp-syntax
+[10:37:39] Installing extension: ms-vscode.cpptools-themes
+[10:37:39] Installing extension: cschlosser.doxdocgen
+[10:37:40] Downloaded extension: ms-vscode-remote.remote-ssh /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.74.0
+[10:37:40] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.74.0
+[10:37:40] Downloaded extension: ms-vscode-remote.remote-wsl /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.64.2
+[10:37:40] Downloaded extension: ms-vscode.cmake-tools /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.9.2
+[10:37:40] Downloaded extension: jeff-hykin.better-cpp-syntax /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.13
+[10:37:40] Downloaded extension: cschlosser.doxdocgen /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/cschlosser.doxdocgen-1.4.0
+[10:37:40] Downloaded extension: ms-vscode.cpptools-themes /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[10:37:40] Downloaded extension: ms-vscode-remote.remote-containers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.217.4
+[10:37:40] Extracted extension to /home/ubuntu/.vscode-server/extensions/.08b8a8ae-7211-4b62-9c23-05f04d2b46fa: ms-vscode-remote.remote-ssh-edit
+[10:37:40] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-ssh-edit-0.74.0
+[10:37:40] Extracted extension to /home/ubuntu/.vscode-server/extensions/.6c75c796-f48a-40d3-a114-285e84ee1ecb: ms-vscode.cpptools-themes
+[10:37:40] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[10:37:40] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-themes-1.0.0
+[10:37:40] Extracting completed. ms-vscode.cpptools-themes
+[10:37:40] Extracted extension to /home/ubuntu/.vscode-server/extensions/.b76ed3f4-1d1d-40be-adf8-3a2bf73fc659: jeff-hykin.better-cpp-syntax
+[10:37:40] Renamed to /home/ubuntu/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[10:37:40] Extracting completed. jeff-hykin.better-cpp-syntax
+[10:37:41] Downloaded extension: twxs.cmake /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[10:37:41] Extracted extension to /home/ubuntu/.vscode-server/extensions/.12ae4fbe-3fa8-4946-afea-9a580b4693ea: ms-vscode-remote.remote-wsl
+[10:37:41] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-wsl-0.64.2
+[10:37:41] Extracting completed. ms-vscode-remote.remote-wsl
+[10:37:41] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4d5f3f9d-bacb-43f3-9263-8d4cceec3e38: ms-vscode-remote.remote-ssh
+[10:37:41] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-ssh-0.74.0
+[10:37:41] Extracting completed. ms-vscode-remote.remote-ssh
+[10:37:41] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d867e281-481d-4bb3-9ec9-ba3c02a28cb0: ms-vscode.cmake-tools
+[10:37:41] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cmake-tools-1.9.2
+[10:37:41] Extracting completed. ms-vscode.cmake-tools
+[10:37:42] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4b52ba96-1e64-4a57-b8f5-e272088ae932: twxs.cmake
+[10:37:42] Renamed to /home/ubuntu/.vscode-server/extensions/twxs.cmake-0.0.17
+[10:37:42] Extracting completed. twxs.cmake
+[10:37:42] Extracted extension to /home/ubuntu/.vscode-server/extensions/.111b4afb-9927-471b-b4ce-5355dcea6da8: ms-vscode-remote.remote-containers
+[10:37:42] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-containers-0.217.4
+[10:37:42] Extracting completed. ms-vscode-remote.remote-containers
+[10:37:43] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4d51cb23-495d-4f63-a538-a071be7dab3f: cschlosser.doxdocgen
+[10:37:43] Renamed to /home/ubuntu/.vscode-server/extensions/cschlosser.doxdocgen-1.4.0
+[10:37:43] Extracting completed. cschlosser.doxdocgen
+[10:37:43] Downloaded extension: ms-vscode.cpptools-extension-pack /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.1.0
+[10:37:43] Extracted extension to /home/ubuntu/.vscode-server/extensions/.368908ff-95df-45a4-aed7-9d9890ee3e0e: ms-vscode.cpptools-extension-pack
+[10:37:43] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.1.0
+[10:37:43] Extracting completed. ms-vscode.cpptools-extension-pack
+[10:37:43] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[10:37:43] Extension installed successfully: ms-vscode.cpptools-themes
+[10:37:43] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[10:37:43] Extension installed successfully: ms-vscode-remote.remote-wsl
+[10:37:43] Extension installed successfully: ms-vscode-remote.remote-ssh
+[10:37:43] Extension installed successfully: ms-vscode.cmake-tools
+[10:37:43] Extension installed successfully: twxs.cmake
+[10:37:43] Extension installed successfully: ms-vscode-remote.remote-containers
+[10:37:43] Extension installed successfully: cschlosser.doxdocgen
+[10:37:43] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[10:38:09] [127.0.0.1][ccb0582e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:38:09] [127.0.0.1][1673b7ce][ExtensionHostConnection] <12343> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:38:09] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[10:38:09] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:38:20] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:38:20] Cancelling previous shutdown timeout
+[10:38:21] [127.0.0.1][bc180888][ManagementConnection] New connection established.
+[10:38:21] [127.0.0.1][e0a9423e][ExtensionHostConnection] New connection established.
+[10:38:21] [127.0.0.1][e0a9423e][ExtensionHostConnection] <12619> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "81": Replaying 1233 chars and 1 size events
+New EH opened, aborting shutdown
+[10:43:20] New EH opened, aborting shutdown
+[10:58:12] [127.0.0.1][bc180888][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:58:12] [127.0.0.1][e0a9423e][ExtensionHostConnection] <12619> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:58:12] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:58:36] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:58:36] Cancelling previous shutdown timeout
+[10:58:37] [127.0.0.1][0998bd27][ManagementConnection] New connection established.
+[10:58:38] [127.0.0.1][45ea8702][ExtensionHostConnection] New connection established.
+[10:58:38] [127.0.0.1][45ea8702][ExtensionHostConnection] <13118> Launched Extension Host Process.
+[10:58:46] [127.0.0.1][0998bd27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:58:46] [127.0.0.1][45ea8702][ExtensionHostConnection] <13118> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:58:46] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[10:58:46] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:58:52] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:58:52] Cancelling previous shutdown timeout
+[10:58:53] [127.0.0.1][5e30f476][ManagementConnection] New connection established.
+[10:58:54] [127.0.0.1][cad240f1][ExtensionHostConnection] New connection established.
+[10:58:54] [127.0.0.1][cad240f1][ExtensionHostConnection] <13272> Launched Extension Host Process.
+[11:01:45] [127.0.0.1][5e30f476][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:01:45] [127.0.0.1][cad240f1][ExtensionHostConnection] <13272> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[11:01:45] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[11:01:45] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[11:04:53] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[11:04:53] Cancelling previous shutdown timeout
+[11:04:54] [127.0.0.1][05bfec17][ManagementConnection] New connection established.
+[11:04:55] [127.0.0.1][59b0f59a][ExtensionHostConnection] New connection established.
+[11:04:55] [127.0.0.1][59b0f59a][ExtensionHostConnection] <13553> Launched Extension Host Process.
+[11:05:49] [127.0.0.1][05bfec17][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:05:49] [127.0.0.1][59b0f59a][ExtensionHostConnection] <13553> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[11:05:49] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[11:05:49] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[11:05:56] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[11:05:56] Cancelling previous shutdown timeout
+[11:05:57] [127.0.0.1][b2541368][ManagementConnection] New connection established.
+[11:05:57] [127.0.0.1][277f7085][ExtensionHostConnection] New connection established.
+[11:05:57] [127.0.0.1][277f7085][ExtensionHostConnection] <13708> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[11:10:56] New EH opened, aborting shutdown
+[11:16:38] Getting Manifest... mhutchie.git-graph
+[11:16:39] Installing extension: mhutchie.git-graph
+[11:16:39] Downloaded extension: mhutchie.git-graph /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[11:16:39] Extracted extension to /home/ubuntu/.vscode-server/extensions/.a4a4d031-d40f-403a-838d-07d7c456dbe4: mhutchie.git-graph
+[11:16:39] Renamed to /home/ubuntu/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+[11:16:39] Extracting completed. mhutchie.git-graph
+[11:16:39] Extension installed successfully: mhutchie.git-graph

@@ -1,0 +1,53 @@
+[2022-02-28 11:16:42.742] Starting Git Graph ...
+[2022-02-28 11:16:42.772] Using git (version: 2.25.1)
+[2022-02-28 11:16:42.780] Started Git Graph - Ready to use!
+[2022-02-28 11:16:42.782] Searching workspace for new repos ...
+[2022-02-28 11:16:42.788] > git rev-parse --show-toplevel
+[2022-02-28 11:16:42.796] Added new repo: /home/ubuntu
+[2022-02-28 11:16:42.798] Completed searching workspace for new repos
+[2022-02-28 11:16:42.798] Showing "Git Graph" Status Bar Item
+[2022-02-28 11:16:43.008] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-02-28 11:17:00.153] Created Git Graph View
+[2022-02-28 11:17:02.366] > git branch -a --no-color
+[2022-02-28 11:17:02.385] > git remote
+[2022-02-28 11:17:02.401] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:02.435] Started watching repo: /home/ubuntu
+[2022-02-28 11:17:03.668] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 11:17:03.676] > git show-ref -d --head
+[2022-02-28 11:17:08.709] > git branch -a --no-color
+[2022-02-28 11:17:08.715] > git remote
+[2022-02-28 11:17:08.721] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:08.728] > git branch -a --no-color
+[2022-02-28 11:17:08.736] > git remote
+[2022-02-28 11:17:08.743] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:08.754] > git branch -a --no-color
+[2022-02-28 11:17:08.761] > git remote
+[2022-02-28 11:17:08.768] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:08.980] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 11:17:08.987] > git show-ref -d --head
+[2022-02-28 11:17:13.789] > git branch -a --no-color
+[2022-02-28 11:17:13.794] > git remote
+[2022-02-28 11:17:13.799] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:13.902] > git branch -a --no-color
+[2022-02-28 11:17:13.907] > git remote
+[2022-02-28 11:17:13.913] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:14.126] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 11:17:14.133] > git show-ref -d --head
+[2022-02-28 11:17:18.956] > git branch -a --no-color
+[2022-02-28 11:17:18.962] > git remote
+[2022-02-28 11:17:18.968] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:19.012] > git branch -a --no-color
+[2022-02-28 11:17:19.017] > git remote
+[2022-02-28 11:17:19.024] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:19.232] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 11:17:19.239] > git show-ref -d --head
+[2022-02-28 11:17:24.088] Stopped watching repo: /home/ubuntu
+[2022-02-28 11:17:24.095] > git branch -a --no-color
+[2022-02-28 11:17:24.101] > git remote
+[2022-02-28 11:17:24.107] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:24.115] Started watching repo: /home/ubuntu
+[2022-02-28 11:17:24.241] > git branch -a --no-color
+[2022-02-28 11:17:24.247] > git remote
+[2022-02-28 11:17:24.252] > git reflog --format=... refs/stash --
+[2022-02-28 11:17:24.482] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 11:17:24.489] > git show-ref -d --head

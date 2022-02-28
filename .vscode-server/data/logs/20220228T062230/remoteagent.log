@@ -1,0 +1,256 @@
+[2022-02-28 06:22:30.794] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-28 06:22:30.794] [remoteagent] [info] Extension host agent started.
+[2022-02-28 06:22:31.534] [remoteagent] [info] [127.0.0.1][3e9b4c13][ManagementConnection] New connection established.
+[2022-02-28 06:22:31.880] [remoteagent] [info] [127.0.0.1][e8f7df35][ExtensionHostConnection] New connection established.
+[2022-02-28 06:22:31.884] [remoteagent] [info] [127.0.0.1][e8f7df35][ExtensionHostConnection] <1496> Launched Extension Host Process.
+[2022-02-28 06:23:41.318] [remoteagent] [info] [127.0.0.1][3e9b4c13][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 06:23:41.342] [remoteagent] [info] [127.0.0.1][e8f7df35][ExtensionHostConnection] <1496> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 06:23:41.342] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 06:23:50.265] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 06:23:50.265] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:23:51.135] [remoteagent] [info] [127.0.0.1][dad2a5bd][ManagementConnection] New connection established.
+[2022-02-28 06:23:51.539] [remoteagent] [info] [127.0.0.1][8ea5ad77][ExtensionHostConnection] New connection established.
+[2022-02-28 06:23:51.545] [remoteagent] [info] [127.0.0.1][8ea5ad77][ExtensionHostConnection] <1660> Launched Extension Host Process.
+[2022-02-28 06:26:22.945] [remoteagent] [info] [127.0.0.1][dad2a5bd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 06:26:22.957] [remoteagent] [info] [127.0.0.1][8ea5ad77][ExtensionHostConnection] <1660> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 06:26:22.957] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:26:22.957] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 06:26:40.684] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 06:26:40.684] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:26:41.583] [remoteagent] [info] [127.0.0.1][72855797][ManagementConnection] New connection established.
+[2022-02-28 06:26:41.965] [remoteagent] [info] [127.0.0.1][18d245d5][ExtensionHostConnection] New connection established.
+[2022-02-28 06:26:41.968] [remoteagent] [info] [127.0.0.1][18d245d5][ExtensionHostConnection] <1899> Launched Extension Host Process.
+[2022-02-28 06:26:49.134] [remoteagent] [info] [127.0.0.1][72855797][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 06:26:49.151] [remoteagent] [info] [127.0.0.1][18d245d5][ExtensionHostConnection] <1899> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 06:26:49.151] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:26:49.151] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 06:26:57.193] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 06:26:57.193] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:26:58.094] [remoteagent] [info] [127.0.0.1][d178df41][ManagementConnection] New connection established.
+[2022-02-28 06:26:58.505] [remoteagent] [info] [127.0.0.1][542b3e2a][ExtensionHostConnection] New connection established.
+[2022-02-28 06:26:58.509] [remoteagent] [info] [127.0.0.1][542b3e2a][ExtensionHostConnection] <2055> Launched Extension Host Process.
+[2022-02-28 06:31:57.195] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 06:46:58.303] [remoteagent] [info] [127.0.0.1][d178df41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 06:46:58.325] [remoteagent] [info] [127.0.0.1][542b3e2a][ExtensionHostConnection] <2055> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 06:46:58.325] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 06:47:11.926] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 06:47:11.926] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:47:12.858] [remoteagent] [info] [127.0.0.1][06535997][ManagementConnection] New connection established.
+[2022-02-28 06:47:13.218] [remoteagent] [info] [127.0.0.1][f38ff6b9][ExtensionHostConnection] New connection established.
+[2022-02-28 06:47:13.221] [remoteagent] [info] [127.0.0.1][f38ff6b9][ExtensionHostConnection] <2603> Launched Extension Host Process.
+[2022-02-28 06:47:37.050] [remoteagent] [info] [127.0.0.1][06535997][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 06:47:37.076] [remoteagent] [info] [127.0.0.1][f38ff6b9][ExtensionHostConnection] <2603> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 06:47:37.076] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:47:37.077] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 06:47:43.412] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 06:47:43.412] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 06:47:44.426] [remoteagent] [info] [127.0.0.1][05d7d92e][ManagementConnection] New connection established.
+[2022-02-28 06:47:44.737] [remoteagent] [info] [127.0.0.1][41181490][ExtensionHostConnection] New connection established.
+[2022-02-28 06:47:44.740] [remoteagent] [info] [127.0.0.1][41181490][ExtensionHostConnection] <2757> Launched Extension Host Process.
+[2022-02-28 06:52:43.413] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 08:20:29.267] [remoteagent] [info] [127.0.0.1][05d7d92e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 08:20:29.296] [remoteagent] [info] [127.0.0.1][41181490][ExtensionHostConnection] <2757> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 08:20:29.296] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 08:20:50.598] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 08:20:50.598] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 08:20:51.515] [remoteagent] [info] [127.0.0.1][4d24a6c4][ManagementConnection] New connection established.
+[2022-02-28 08:20:51.915] [remoteagent] [info] [127.0.0.1][91d900d1][ExtensionHostConnection] New connection established.
+[2022-02-28 08:20:51.919] [remoteagent] [info] [127.0.0.1][91d900d1][ExtensionHostConnection] <3354> Launched Extension Host Process.
+[2022-02-28 08:21:03.415] [remoteagent] [info] [127.0.0.1][4d24a6c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 08:21:03.447] [remoteagent] [info] [127.0.0.1][91d900d1][ExtensionHostConnection] <3354> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 08:21:03.448] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 08:21:03.448] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 08:21:09.795] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 08:21:09.795] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 08:21:10.706] [remoteagent] [info] [127.0.0.1][31f12189][ManagementConnection] New connection established.
+[2022-02-28 08:21:11.106] [remoteagent] [info] [127.0.0.1][0aec012a][ExtensionHostConnection] New connection established.
+[2022-02-28 08:21:11.110] [remoteagent] [info] [127.0.0.1][0aec012a][ExtensionHostConnection] <3508> Launched Extension Host Process.
+[2022-02-28 08:26:09.795] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 08:46:43.118] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-02-28 08:46:43.182] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-02-28 08:46:44.443] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.8.4-linux-x64
+[2022-02-28 08:46:48.210] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.7c2a7786-537d-4d5e-b2de-8adb06b3e457: ms-vscode.cpptools
+[2022-02-28 08:46:48.229] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.8.4
+[2022-02-28 08:46:48.233] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-02-28 08:46:48.233] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-02-28 09:06:29.293] [remoteagent] [info] [127.0.0.1][31f12189][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 09:06:29.429] [remoteagent] [info] [127.0.0.1][0aec012a][ExtensionHostConnection] <3508> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 09:06:29.433] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 09:06:43.228] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 09:06:43.228] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 09:06:44.098] [remoteagent] [info] [127.0.0.1][bf1b76d0][ManagementConnection] New connection established.
+[2022-02-28 09:06:44.477] [remoteagent] [info] [127.0.0.1][05fdb4bd][ExtensionHostConnection] New connection established.
+[2022-02-28 09:06:44.483] [remoteagent] [info] [127.0.0.1][05fdb4bd][ExtensionHostConnection] <9664> Launched Extension Host Process.
+[2022-02-28 09:07:01.105] [remoteagent] [info] [127.0.0.1][bf1b76d0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 09:07:01.119] [remoteagent] [info] [127.0.0.1][05fdb4bd][ExtensionHostConnection] <9664> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 09:07:01.119] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 09:07:01.120] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 09:07:09.374] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 09:07:09.374] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 09:07:10.613] [remoteagent] [info] [127.0.0.1][10cd0612][ManagementConnection] New connection established.
+[2022-02-28 09:07:11.044] [remoteagent] [info] [127.0.0.1][516f8518][ExtensionHostConnection] New connection established.
+[2022-02-28 09:07:11.051] [remoteagent] [info] [127.0.0.1][516f8518][ExtensionHostConnection] <9817> Launched Extension Host Process.
+[2022-02-28 09:12:09.376] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 09:37:38.934] [remoteagent] [info] [127.0.0.1][10cd0612][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-02-28 10:17:55.233] [remoteagent] [info] [127.0.0.1][10cd0612][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-02-28 10:17:55.234] [remoteagent] [info] [127.0.0.1][205454e4][ManagementConnection] New connection established.
+[2022-02-28 10:17:55.875] [remoteagent] [info] [127.0.0.1][7237f99d][ExtensionHostConnection] New connection established.
+[2022-02-28 10:17:55.881] [remoteagent] [info] [127.0.0.1][7237f99d][ExtensionHostConnection] <10970> Launched Extension Host Process.
+[2022-02-28 10:18:04.135] [remoteagent] [info] [127.0.0.1][205454e4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:18:04.152] [remoteagent] [info] [127.0.0.1][7237f99d][ExtensionHostConnection] <10970> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:18:11.905] [remoteagent] [info] [127.0.0.1][e49c6295][ManagementConnection] New connection established.
+[2022-02-28 10:18:12.279] [remoteagent] [info] [127.0.0.1][b776e9f6][ExtensionHostConnection] New connection established.
+[2022-02-28 10:18:12.283] [remoteagent] [info] [127.0.0.1][b776e9f6][ExtensionHostConnection] <11124> Launched Extension Host Process.
+[2022-02-28 10:22:55.333] [remoteagent] [info] [127.0.0.1][10cd0612][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-02-28 10:22:55.456] [remoteagent] [info] [127.0.0.1][516f8518][ExtensionHostConnection] <9817> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:35:17.760] [remoteagent] [info] [127.0.0.1][e49c6295][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:35:17.872] [remoteagent] [info] [127.0.0.1][b776e9f6][ExtensionHostConnection] <11124> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:35:17.872] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 10:35:30.695] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 10:35:30.695] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:35:31.710] [remoteagent] [info] [127.0.0.1][e3ea62cb][ManagementConnection] New connection established.
+[2022-02-28 10:35:32.101] [remoteagent] [info] [127.0.0.1][84ce59c2][ExtensionHostConnection] New connection established.
+[2022-02-28 10:35:32.109] [remoteagent] [info] [127.0.0.1][84ce59c2][ExtensionHostConnection] <12011> Launched Extension Host Process.
+[2022-02-28 10:37:03.122] [remoteagent] [info] [127.0.0.1][e3ea62cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:37:03.184] [remoteagent] [info] [127.0.0.1][84ce59c2][ExtensionHostConnection] <12011> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:37:03.184] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:37:03.184] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 10:37:14.541] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 10:37:14.541] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:37:15.511] [remoteagent] [info] [127.0.0.1][ccb0582e][ManagementConnection] New connection established.
+[2022-02-28 10:37:15.939] [remoteagent] [info] [127.0.0.1][1673b7ce][ExtensionHostConnection] New connection established.
+[2022-02-28 10:37:15.943] [remoteagent] [info] [127.0.0.1][1673b7ce][ExtensionHostConnection] <12343> Launched Extension Host Process.
+[2022-02-28 10:37:38.297] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-02-28 10:37:38.352] [remoteagent] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-02-28 10:37:38.830] [remoteagent] [info] Getting Manifest... ms-vscode-remote.remote-wsl
+[2022-02-28 10:37:38.868] [remoteagent] [info] Getting Manifest... ms-vscode-remote.remote-containers
+[2022-02-28 10:37:38.882] [remoteagent] [info] Getting Manifest... ms-vscode-remote.remote-ssh
+[2022-02-28 10:37:39.143] [remoteagent] [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+[2022-02-28 10:37:39.155] [remoteagent] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-02-28 10:37:39.209] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-02-28 10:37:39.241] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-02-28 10:37:39.253] [remoteagent] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-02-28 10:37:39.291] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-02-28 10:37:39.305] [remoteagent] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-02-28 10:37:39.382] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2022-02-28 10:37:39.382] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-02-28 10:37:39.382] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2022-02-28 10:37:39.382] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2022-02-28 10:37:39.383] [remoteagent] [info] Installing extension: ms-vscode.cmake-tools
+[2022-02-28 10:37:39.383] [remoteagent] [info] Installing extension: twxs.cmake
+[2022-02-28 10:37:39.383] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-02-28 10:37:39.383] [remoteagent] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-02-28 10:37:39.383] [remoteagent] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-02-28 10:37:39.384] [remoteagent] [info] Installing extension: cschlosser.doxdocgen
+[2022-02-28 10:37:40.027] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.74.0
+[2022-02-28 10:37:40.041] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.74.0
+[2022-02-28 10:37:40.060] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.64.2
+[2022-02-28 10:37:40.146] [remoteagent] [info] Downloaded extension: ms-vscode.cmake-tools /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.9.2
+[2022-02-28 10:37:40.181] [remoteagent] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-02-28 10:37:40.182] [remoteagent] [info] Downloaded extension: cschlosser.doxdocgen /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/cschlosser.doxdocgen-1.4.0
+[2022-02-28 10:37:40.235] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-themes /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-02-28 10:37:40.356] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.217.4
+[2022-02-28 10:37:40.504] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.08b8a8ae-7211-4b62-9c23-05f04d2b46fa: ms-vscode-remote.remote-ssh-edit
+[2022-02-28 10:37:40.526] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-ssh-edit-0.74.0
+[2022-02-28 10:37:40.526] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.6c75c796-f48a-40d3-a114-285e84ee1ecb: ms-vscode.cpptools-themes
+[2022-02-28 10:37:40.531] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2022-02-28 10:37:40.542] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-02-28 10:37:40.548] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-02-28 10:37:40.612] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.b76ed3f4-1d1d-40be-adf8-3a2bf73fc659: jeff-hykin.better-cpp-syntax
+[2022-02-28 10:37:40.628] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-02-28 10:37:40.633] [remoteagent] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-02-28 10:37:41.026] [remoteagent] [info] Downloaded extension: twxs.cmake /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-02-28 10:37:41.156] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.12ae4fbe-3fa8-4946-afea-9a580b4693ea: ms-vscode-remote.remote-wsl
+[2022-02-28 10:37:41.178] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-wsl-0.64.2
+[2022-02-28 10:37:41.187] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2022-02-28 10:37:41.201] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4d5f3f9d-bacb-43f3-9263-8d4cceec3e38: ms-vscode-remote.remote-ssh
+[2022-02-28 10:37:41.225] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-ssh-0.74.0
+[2022-02-28 10:37:41.229] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2022-02-28 10:37:41.716] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.d867e281-481d-4bb3-9ec9-ba3c02a28cb0: ms-vscode.cmake-tools
+[2022-02-28 10:37:41.735] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cmake-tools-1.9.2
+[2022-02-28 10:37:41.740] [remoteagent] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-02-28 10:37:42.000] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4b52ba96-1e64-4a57-b8f5-e272088ae932: twxs.cmake
+[2022-02-28 10:37:42.011] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/twxs.cmake-0.0.17
+[2022-02-28 10:37:42.013] [remoteagent] [info] Extracting completed. twxs.cmake
+[2022-02-28 10:37:42.884] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.111b4afb-9927-471b-b4ce-5355dcea6da8: ms-vscode-remote.remote-containers
+[2022-02-28 10:37:42.898] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode-remote.remote-containers-0.217.4
+[2022-02-28 10:37:42.900] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-02-28 10:37:43.264] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4d51cb23-495d-4f63-a538-a071be7dab3f: cschlosser.doxdocgen
+[2022-02-28 10:37:43.270] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/cschlosser.doxdocgen-1.4.0
+[2022-02-28 10:37:43.271] [remoteagent] [info] Extracting completed. cschlosser.doxdocgen
+[2022-02-28 10:37:43.482] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.1.0
+[2022-02-28 10:37:43.492] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.368908ff-95df-45a4-aed7-9d9890ee3e0e: ms-vscode.cpptools-extension-pack
+[2022-02-28 10:37:43.497] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.1.0
+[2022-02-28 10:37:43.498] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-02-28 10:37:43.498] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: twxs.cmake
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-02-28 10:37:43.499] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-02-28 10:38:09.463] [remoteagent] [info] [127.0.0.1][ccb0582e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:38:09.811] [remoteagent] [info] [127.0.0.1][1673b7ce][ExtensionHostConnection] <12343> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:38:09.811] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:38:09.811] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 10:38:20.511] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 10:38:20.511] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:38:21.534] [remoteagent] [info] [127.0.0.1][bc180888][ManagementConnection] New connection established.
+[2022-02-28 10:38:21.918] [remoteagent] [info] [127.0.0.1][e0a9423e][ExtensionHostConnection] New connection established.
+[2022-02-28 10:38:21.925] [remoteagent] [info] [127.0.0.1][e0a9423e][ExtensionHostConnection] <12619> Launched Extension Host Process.
+[2022-02-28 10:43:20.512] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 10:58:12.715] [remoteagent] [info] [127.0.0.1][bc180888][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:58:12.783] [remoteagent] [info] [127.0.0.1][e0a9423e][ExtensionHostConnection] <12619> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:58:12.783] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 10:58:36.682] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 10:58:36.682] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:58:37.619] [remoteagent] [info] [127.0.0.1][0998bd27][ManagementConnection] New connection established.
+[2022-02-28 10:58:38.005] [remoteagent] [info] [127.0.0.1][45ea8702][ExtensionHostConnection] New connection established.
+[2022-02-28 10:58:38.009] [remoteagent] [info] [127.0.0.1][45ea8702][ExtensionHostConnection] <13118> Launched Extension Host Process.
+[2022-02-28 10:58:46.183] [remoteagent] [info] [127.0.0.1][0998bd27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 10:58:46.200] [remoteagent] [info] [127.0.0.1][45ea8702][ExtensionHostConnection] <13118> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 10:58:46.200] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:58:46.200] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 10:58:52.743] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 10:58:52.744] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 10:58:53.707] [remoteagent] [info] [127.0.0.1][5e30f476][ManagementConnection] New connection established.
+[2022-02-28 10:58:54.010] [remoteagent] [info] [127.0.0.1][cad240f1][ExtensionHostConnection] New connection established.
+[2022-02-28 10:58:54.015] [remoteagent] [info] [127.0.0.1][cad240f1][ExtensionHostConnection] <13272> Launched Extension Host Process.
+[2022-02-28 11:01:45.460] [remoteagent] [info] [127.0.0.1][5e30f476][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 11:01:45.499] [remoteagent] [info] [127.0.0.1][cad240f1][ExtensionHostConnection] <13272> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 11:01:45.499] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:01:45.499] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 11:04:53.839] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 11:04:53.839] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:04:54.914] [remoteagent] [info] [127.0.0.1][05bfec17][ManagementConnection] New connection established.
+[2022-02-28 11:04:55.264] [remoteagent] [info] [127.0.0.1][59b0f59a][ExtensionHostConnection] New connection established.
+[2022-02-28 11:04:55.268] [remoteagent] [info] [127.0.0.1][59b0f59a][ExtensionHostConnection] <13553> Launched Extension Host Process.
+[2022-02-28 11:05:49.735] [remoteagent] [info] [127.0.0.1][05bfec17][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-28 11:05:49.750] [remoteagent] [info] [127.0.0.1][59b0f59a][ExtensionHostConnection] <13553> Extension Host Process exited with code: 0, signal: null.
+[2022-02-28 11:05:49.750] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:05:49.751] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-02-28 11:05:56.195] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-02-28 11:05:56.195] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-02-28 11:05:57.186] [remoteagent] [info] [127.0.0.1][b2541368][ManagementConnection] New connection established.
+[2022-02-28 11:05:57.480] [remoteagent] [info] [127.0.0.1][277f7085][ExtensionHostConnection] New connection established.
+[2022-02-28 11:05:57.485] [remoteagent] [info] [127.0.0.1][277f7085][ExtensionHostConnection] <13708> Launched Extension Host Process.
+[2022-02-28 11:10:56.204] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-02-28 11:16:38.988] [remoteagent] [info] Getting Manifest... mhutchie.git-graph
+[2022-02-28 11:16:39.061] [remoteagent] [info] Installing extension: mhutchie.git-graph
+[2022-02-28 11:16:39.400] [remoteagent] [info] Downloaded extension: mhutchie.git-graph /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-02-28 11:16:39.498] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.a4a4d031-d40f-403a-838d-07d7c456dbe4: mhutchie.git-graph
+[2022-02-28 11:16:39.507] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+[2022-02-28 11:16:39.509] [remoteagent] [info] Extracting completed. mhutchie.git-graph
+[2022-02-28 11:16:39.510] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph

@@ -968,3 +968,1246 @@
 [2022-02-28 16:06:02.289] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
 [2022-02-28 16:06:02.332] > git show-ref -d --head
 [2022-02-28 16:06:02.403] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:05.192] > git branch -a --no-color
+[2022-02-28 16:06:05.198] > git remote
+[2022-02-28 16:06:05.204] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:05.417] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:05.423] > git show-ref -d --head
+[2022-02-28 16:06:05.430] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:08.162] > git branch -a --no-color
+[2022-02-28 16:06:08.167] > git remote
+[2022-02-28 16:06:08.172] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:08.387] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:08.394] > git show-ref -d --head
+[2022-02-28 16:06:08.403] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:12.162] > git branch -a --no-color
+[2022-02-28 16:06:12.167] > git remote
+[2022-02-28 16:06:12.171] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:12.383] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:12.390] > git show-ref -d --head
+[2022-02-28 16:06:12.400] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:15.161] > git branch -a --no-color
+[2022-02-28 16:06:15.166] > git remote
+[2022-02-28 16:06:15.171] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:15.385] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:15.393] > git show-ref -d --head
+[2022-02-28 16:06:15.401] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:18.160] > git branch -a --no-color
+[2022-02-28 16:06:18.165] > git remote
+[2022-02-28 16:06:18.171] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:18.389] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:18.396] > git show-ref -d --head
+[2022-02-28 16:06:18.405] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:21.166] > git branch -a --no-color
+[2022-02-28 16:06:21.171] > git remote
+[2022-02-28 16:06:21.176] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:21.388] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:21.395] > git show-ref -d --head
+[2022-02-28 16:06:21.405] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:24.167] > git branch -a --no-color
+[2022-02-28 16:06:24.172] > git remote
+[2022-02-28 16:06:24.177] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:24.390] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:24.395] > git show-ref -d --head
+[2022-02-28 16:06:24.402] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:27.166] > git branch -a --no-color
+[2022-02-28 16:06:27.171] > git remote
+[2022-02-28 16:06:27.176] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:27.387] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:27.393] > git show-ref -d --head
+[2022-02-28 16:06:27.400] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:30.171] > git branch -a --no-color
+[2022-02-28 16:06:30.176] > git remote
+[2022-02-28 16:06:30.181] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:30.393] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:30.399] > git show-ref -d --head
+[2022-02-28 16:06:30.408] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:33.167] > git branch -a --no-color
+[2022-02-28 16:06:33.172] > git remote
+[2022-02-28 16:06:33.177] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:33.390] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:33.395] > git show-ref -d --head
+[2022-02-28 16:06:33.404] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:36.169] > git branch -a --no-color
+[2022-02-28 16:06:36.174] > git remote
+[2022-02-28 16:06:36.179] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:36.395] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:36.401] > git show-ref -d --head
+[2022-02-28 16:06:36.411] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:39.374] > git branch -a --no-color
+[2022-02-28 16:06:39.380] > git remote
+[2022-02-28 16:06:39.386] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:39.602] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:39.608] > git show-ref -d --head
+[2022-02-28 16:06:39.616] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:40.321] > git branch -a --no-color
+[2022-02-28 16:06:40.326] > git remote
+[2022-02-28 16:06:40.331] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:40.629] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:40.634] > git show-ref -d --head
+[2022-02-28 16:06:40.641] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:43.173] > git branch -a --no-color
+[2022-02-28 16:06:43.178] > git remote
+[2022-02-28 16:06:43.183] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:43.395] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:43.401] > git show-ref -d --head
+[2022-02-28 16:06:43.408] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:46.170] > git branch -a --no-color
+[2022-02-28 16:06:46.175] > git remote
+[2022-02-28 16:06:46.180] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:46.395] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:46.401] > git show-ref -d --head
+[2022-02-28 16:06:46.410] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:49.177] > git branch -a --no-color
+[2022-02-28 16:06:49.182] > git remote
+[2022-02-28 16:06:49.187] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:49.399] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:49.405] > git show-ref -d --head
+[2022-02-28 16:06:49.416] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:52.177] > git branch -a --no-color
+[2022-02-28 16:06:52.183] > git remote
+[2022-02-28 16:06:52.191] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:52.410] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:52.415] > git show-ref -d --head
+[2022-02-28 16:06:52.425] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:56.175] > git branch -a --no-color
+[2022-02-28 16:06:56.181] > git remote
+[2022-02-28 16:06:56.186] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:56.400] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:56.406] > git show-ref -d --head
+[2022-02-28 16:06:56.414] > git status --untracked-files=all --porcelain
+[2022-02-28 16:06:59.174] > git branch -a --no-color
+[2022-02-28 16:06:59.180] > git remote
+[2022-02-28 16:06:59.185] > git reflog --format=... refs/stash --
+[2022-02-28 16:06:59.407] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:06:59.416] > git show-ref -d --head
+[2022-02-28 16:06:59.428] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:02.180] > git branch -a --no-color
+[2022-02-28 16:07:02.186] > git remote
+[2022-02-28 16:07:02.190] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:02.405] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:02.410] > git show-ref -d --head
+[2022-02-28 16:07:02.417] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:06.181] > git branch -a --no-color
+[2022-02-28 16:07:06.189] > git remote
+[2022-02-28 16:07:06.197] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:06.412] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:06.419] > git show-ref -d --head
+[2022-02-28 16:07:06.428] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:09.180] > git branch -a --no-color
+[2022-02-28 16:07:09.186] > git remote
+[2022-02-28 16:07:09.191] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:09.402] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:09.409] > git show-ref -d --head
+[2022-02-28 16:07:09.418] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:12.181] > git branch -a --no-color
+[2022-02-28 16:07:12.186] > git remote
+[2022-02-28 16:07:12.190] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:12.403] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:12.408] > git show-ref -d --head
+[2022-02-28 16:07:12.416] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:16.189] > git branch -a --no-color
+[2022-02-28 16:07:16.194] > git remote
+[2022-02-28 16:07:16.199] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:16.412] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:16.417] > git show-ref -d --head
+[2022-02-28 16:07:16.426] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:19.183] > git branch -a --no-color
+[2022-02-28 16:07:19.188] > git remote
+[2022-02-28 16:07:19.196] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:19.413] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:19.420] > git show-ref -d --head
+[2022-02-28 16:07:19.428] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:22.185] > git branch -a --no-color
+[2022-02-28 16:07:22.190] > git remote
+[2022-02-28 16:07:22.195] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:22.410] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:22.415] > git show-ref -d --head
+[2022-02-28 16:07:22.422] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:25.185] > git branch -a --no-color
+[2022-02-28 16:07:25.190] > git remote
+[2022-02-28 16:07:25.194] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:25.409] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:25.414] > git show-ref -d --head
+[2022-02-28 16:07:25.423] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:26.067] > git branch -a --no-color
+[2022-02-28 16:07:26.072] > git remote
+[2022-02-28 16:07:26.077] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:26.288] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:26.294] > git show-ref -d --head
+[2022-02-28 16:07:26.302] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:29.185] > git branch -a --no-color
+[2022-02-28 16:07:29.190] > git remote
+[2022-02-28 16:07:29.195] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:29.411] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:29.416] > git show-ref -d --head
+[2022-02-28 16:07:29.425] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:32.185] > git branch -a --no-color
+[2022-02-28 16:07:32.190] > git remote
+[2022-02-28 16:07:32.195] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:32.407] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:32.412] > git show-ref -d --head
+[2022-02-28 16:07:32.420] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:35.198] > git branch -a --no-color
+[2022-02-28 16:07:35.203] > git remote
+[2022-02-28 16:07:35.208] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:35.422] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:35.428] > git show-ref -d --head
+[2022-02-28 16:07:35.436] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:38.190] > git branch -a --no-color
+[2022-02-28 16:07:38.195] > git remote
+[2022-02-28 16:07:38.199] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:38.412] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:38.417] > git show-ref -d --head
+[2022-02-28 16:07:38.424] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:41.274] > git branch -a --no-color
+[2022-02-28 16:07:41.279] > git remote
+[2022-02-28 16:07:41.284] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:41.497] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:41.503] > git show-ref -d --head
+[2022-02-28 16:07:41.509] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:42.192] > git branch -a --no-color
+[2022-02-28 16:07:42.197] > git remote
+[2022-02-28 16:07:42.202] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:42.415] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:42.420] > git show-ref -d --head
+[2022-02-28 16:07:42.429] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:45.193] > git branch -a --no-color
+[2022-02-28 16:07:45.198] > git remote
+[2022-02-28 16:07:45.202] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:45.415] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:45.421] > git show-ref -d --head
+[2022-02-28 16:07:45.430] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:48.194] > git branch -a --no-color
+[2022-02-28 16:07:48.199] > git remote
+[2022-02-28 16:07:48.204] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:48.416] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:48.422] > git show-ref -d --head
+[2022-02-28 16:07:48.431] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:51.428] > git branch -a --no-color
+[2022-02-28 16:07:51.434] > git remote
+[2022-02-28 16:07:51.439] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:51.652] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:51.657] > git show-ref -d --head
+[2022-02-28 16:07:51.666] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:52.197] > git branch -a --no-color
+[2022-02-28 16:07:52.202] > git remote
+[2022-02-28 16:07:52.206] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:52.417] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:52.424] > git show-ref -d --head
+[2022-02-28 16:07:52.431] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:55.200] > git branch -a --no-color
+[2022-02-28 16:07:55.205] > git remote
+[2022-02-28 16:07:55.210] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:55.434] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:55.440] > git show-ref -d --head
+[2022-02-28 16:07:55.449] > git status --untracked-files=all --porcelain
+[2022-02-28 16:07:58.199] > git branch -a --no-color
+[2022-02-28 16:07:58.204] > git remote
+[2022-02-28 16:07:58.211] > git reflog --format=... refs/stash --
+[2022-02-28 16:07:58.424] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:07:58.429] > git show-ref -d --head
+[2022-02-28 16:07:58.436] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:02.202] > git branch -a --no-color
+[2022-02-28 16:08:02.208] > git remote
+[2022-02-28 16:08:02.213] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:02.427] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:02.434] > git show-ref -d --head
+[2022-02-28 16:08:02.441] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:05.204] > git branch -a --no-color
+[2022-02-28 16:08:05.209] > git remote
+[2022-02-28 16:08:05.214] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:05.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:05.446] > git show-ref -d --head
+[2022-02-28 16:08:05.454] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:08.205] > git branch -a --no-color
+[2022-02-28 16:08:08.210] > git remote
+[2022-02-28 16:08:08.215] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:08.426] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:08.432] > git show-ref -d --head
+[2022-02-28 16:08:08.442] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:12.208] > git branch -a --no-color
+[2022-02-28 16:08:12.213] > git remote
+[2022-02-28 16:08:12.218] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:12.432] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:12.438] > git show-ref -d --head
+[2022-02-28 16:08:12.446] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:15.204] > git branch -a --no-color
+[2022-02-28 16:08:15.210] > git remote
+[2022-02-28 16:08:15.217] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:15.429] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:15.435] > git show-ref -d --head
+[2022-02-28 16:08:15.442] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:18.372] > git branch -a --no-color
+[2022-02-28 16:08:18.379] > git remote
+[2022-02-28 16:08:18.387] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:18.601] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:18.608] > git show-ref -d --head
+[2022-02-28 16:08:18.618] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:19.207] > git branch -a --no-color
+[2022-02-28 16:08:19.212] > git remote
+[2022-02-28 16:08:19.217] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:19.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:19.446] > git show-ref -d --head
+[2022-02-28 16:08:19.453] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:22.207] > git branch -a --no-color
+[2022-02-28 16:08:22.213] > git remote
+[2022-02-28 16:08:22.219] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:22.433] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:22.439] > git show-ref -d --head
+[2022-02-28 16:08:22.450] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:26.210] > git branch -a --no-color
+[2022-02-28 16:08:26.216] > git remote
+[2022-02-28 16:08:26.221] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:26.432] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:26.438] > git show-ref -d --head
+[2022-02-28 16:08:26.446] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:29.206] > git branch -a --no-color
+[2022-02-28 16:08:29.211] > git remote
+[2022-02-28 16:08:29.217] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:29.431] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:29.436] > git show-ref -d --head
+[2022-02-28 16:08:29.446] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:32.232] > git branch -a --no-color
+[2022-02-28 16:08:32.252] > git remote
+[2022-02-28 16:08:32.259] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:32.503] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:32.509] > git show-ref -d --head
+[2022-02-28 16:08:32.516] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:36.210] > git branch -a --no-color
+[2022-02-28 16:08:36.215] > git remote
+[2022-02-28 16:08:36.219] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:36.431] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:36.437] > git show-ref -d --head
+[2022-02-28 16:08:36.459] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:39.211] > git branch -a --no-color
+[2022-02-28 16:08:39.216] > git remote
+[2022-02-28 16:08:39.223] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:39.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:39.443] > git show-ref -d --head
+[2022-02-28 16:08:39.456] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:42.208] > git branch -a --no-color
+[2022-02-28 16:08:42.213] > git remote
+[2022-02-28 16:08:42.218] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:42.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:42.442] > git show-ref -d --head
+[2022-02-28 16:08:42.449] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:46.211] > git branch -a --no-color
+[2022-02-28 16:08:46.216] > git remote
+[2022-02-28 16:08:46.221] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:46.432] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:46.438] > git show-ref -d --head
+[2022-02-28 16:08:46.446] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:49.216] > git branch -a --no-color
+[2022-02-28 16:08:49.222] > git remote
+[2022-02-28 16:08:49.227] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:49.439] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:49.444] > git show-ref -d --head
+[2022-02-28 16:08:49.451] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:52.214] > git branch -a --no-color
+[2022-02-28 16:08:52.220] > git remote
+[2022-02-28 16:08:52.224] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:52.437] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:52.442] > git show-ref -d --head
+[2022-02-28 16:08:52.451] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:55.213] > git branch -a --no-color
+[2022-02-28 16:08:55.218] > git remote
+[2022-02-28 16:08:55.223] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:55.436] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:55.441] > git show-ref -d --head
+[2022-02-28 16:08:55.449] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:56.050] > git branch -a --no-color
+[2022-02-28 16:08:56.056] > git remote
+[2022-02-28 16:08:56.060] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:56.273] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:56.278] > git show-ref -d --head
+[2022-02-28 16:08:56.285] > git status --untracked-files=all --porcelain
+[2022-02-28 16:08:59.214] > git branch -a --no-color
+[2022-02-28 16:08:59.218] > git remote
+[2022-02-28 16:08:59.223] > git reflog --format=... refs/stash --
+[2022-02-28 16:08:59.435] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:08:59.440] > git show-ref -d --head
+[2022-02-28 16:08:59.447] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:02.215] > git branch -a --no-color
+[2022-02-28 16:09:02.221] > git remote
+[2022-02-28 16:09:02.226] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:02.439] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:02.447] > git show-ref -d --head
+[2022-02-28 16:09:02.457] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:05.215] > git branch -a --no-color
+[2022-02-28 16:09:05.221] > git remote
+[2022-02-28 16:09:05.227] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:05.441] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:05.447] > git show-ref -d --head
+[2022-02-28 16:09:05.454] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:08.216] > git branch -a --no-color
+[2022-02-28 16:09:08.222] > git remote
+[2022-02-28 16:09:08.226] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:08.443] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:08.450] > git show-ref -d --head
+[2022-02-28 16:09:08.460] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:11.254] > git branch -a --no-color
+[2022-02-28 16:09:11.259] > git remote
+[2022-02-28 16:09:11.264] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:11.478] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:11.484] > git show-ref -d --head
+[2022-02-28 16:09:11.491] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:14.216] > git branch -a --no-color
+[2022-02-28 16:09:14.222] > git remote
+[2022-02-28 16:09:14.226] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:14.439] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:14.444] > git show-ref -d --head
+[2022-02-28 16:09:14.453] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:17.218] > git branch -a --no-color
+[2022-02-28 16:09:17.223] > git remote
+[2022-02-28 16:09:17.229] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:17.441] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:17.450] > git show-ref -d --head
+[2022-02-28 16:09:17.461] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:20.222] > git branch -a --no-color
+[2022-02-28 16:09:20.228] > git remote
+[2022-02-28 16:09:20.233] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:20.447] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:20.452] > git show-ref -d --head
+[2022-02-28 16:09:20.459] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:23.226] > git branch -a --no-color
+[2022-02-28 16:09:23.231] > git remote
+[2022-02-28 16:09:23.235] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:23.448] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:23.453] > git show-ref -d --head
+[2022-02-28 16:09:23.462] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:26.464] > git branch -a --no-color
+[2022-02-28 16:09:26.470] > git remote
+[2022-02-28 16:09:26.475] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:26.687] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:26.692] > git show-ref -d --head
+[2022-02-28 16:09:26.703] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:27.224] > git branch -a --no-color
+[2022-02-28 16:09:27.229] > git remote
+[2022-02-28 16:09:27.234] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:27.459] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:27.465] > git show-ref -d --head
+[2022-02-28 16:09:27.473] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:30.227] > git branch -a --no-color
+[2022-02-28 16:09:30.232] > git remote
+[2022-02-28 16:09:30.237] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:30.449] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:30.455] > git show-ref -d --head
+[2022-02-28 16:09:30.462] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:33.230] > git branch -a --no-color
+[2022-02-28 16:09:33.234] > git remote
+[2022-02-28 16:09:33.239] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:33.450] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:33.455] > git show-ref -d --head
+[2022-02-28 16:09:33.462] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:37.230] > git branch -a --no-color
+[2022-02-28 16:09:37.235] > git remote
+[2022-02-28 16:09:37.239] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:37.450] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:37.455] > git show-ref -d --head
+[2022-02-28 16:09:37.463] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:40.233] > git branch -a --no-color
+[2022-02-28 16:09:40.238] > git remote
+[2022-02-28 16:09:40.244] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:40.469] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:40.475] > git show-ref -d --head
+[2022-02-28 16:09:40.486] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:43.241] > git branch -a --no-color
+[2022-02-28 16:09:43.246] > git remote
+[2022-02-28 16:09:43.251] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:43.463] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:43.469] > git show-ref -d --head
+[2022-02-28 16:09:43.476] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:46.235] > git branch -a --no-color
+[2022-02-28 16:09:46.240] > git remote
+[2022-02-28 16:09:46.245] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:46.458] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:46.464] > git show-ref -d --head
+[2022-02-28 16:09:46.470] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:49.239] > git branch -a --no-color
+[2022-02-28 16:09:49.244] > git remote
+[2022-02-28 16:09:49.251] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:49.469] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:49.475] > git show-ref -d --head
+[2022-02-28 16:09:49.483] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:53.243] > git branch -a --no-color
+[2022-02-28 16:09:53.250] > git remote
+[2022-02-28 16:09:53.259] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:53.479] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:53.487] > git show-ref -d --head
+[2022-02-28 16:09:53.508] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:56.239] > git branch -a --no-color
+[2022-02-28 16:09:56.248] > git remote
+[2022-02-28 16:09:56.259] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:56.470] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:56.483] > git show-ref -d --head
+[2022-02-28 16:09:56.511] > git status --untracked-files=all --porcelain
+[2022-02-28 16:09:59.254] > git branch -a --no-color
+[2022-02-28 16:09:59.267] > git remote
+[2022-02-28 16:09:59.278] > git reflog --format=... refs/stash --
+[2022-02-28 16:09:59.508] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:09:59.521] > git show-ref -d --head
+[2022-02-28 16:09:59.543] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:02.249] > git branch -a --no-color
+[2022-02-28 16:10:02.256] > git remote
+[2022-02-28 16:10:02.263] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:02.492] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:02.500] > git show-ref -d --head
+[2022-02-28 16:10:02.523] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:02.997] > git branch -a --no-color
+[2022-02-28 16:10:03.008] > git remote
+[2022-02-28 16:10:03.016] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:03.239] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:03.247] > git show-ref -d --head
+[2022-02-28 16:10:03.263] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:06.244] > git branch -a --no-color
+[2022-02-28 16:10:06.256] > git remote
+[2022-02-28 16:10:06.269] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:06.487] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:06.497] > git show-ref -d --head
+[2022-02-28 16:10:06.515] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:09.245] > git branch -a --no-color
+[2022-02-28 16:10:09.250] > git remote
+[2022-02-28 16:10:09.259] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:09.473] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:09.480] > git show-ref -d --head
+[2022-02-28 16:10:09.496] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:12.257] > git branch -a --no-color
+[2022-02-28 16:10:12.269] > git remote
+[2022-02-28 16:10:12.283] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:12.506] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:12.513] > git show-ref -d --head
+[2022-02-28 16:10:12.526] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:15.258] > git branch -a --no-color
+[2022-02-28 16:10:15.264] > git remote
+[2022-02-28 16:10:15.272] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:15.491] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:15.501] > git show-ref -d --head
+[2022-02-28 16:10:15.515] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:18.396] > git branch -a --no-color
+[2022-02-28 16:10:18.404] > git remote
+[2022-02-28 16:10:18.412] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:18.633] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:18.644] > git show-ref -d --head
+[2022-02-28 16:10:18.665] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:19.252] > git branch -a --no-color
+[2022-02-28 16:10:19.264] > git remote
+[2022-02-28 16:10:19.274] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:19.490] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:19.496] > git show-ref -d --head
+[2022-02-28 16:10:19.507] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:22.259] > git branch -a --no-color
+[2022-02-28 16:10:22.267] > git remote
+[2022-02-28 16:10:22.277] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:22.495] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:22.504] > git show-ref -d --head
+[2022-02-28 16:10:22.522] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:26.260] > git branch -a --no-color
+[2022-02-28 16:10:26.270] > git remote
+[2022-02-28 16:10:26.275] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:26.500] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:26.510] > git show-ref -d --head
+[2022-02-28 16:10:26.523] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:29.259] > git branch -a --no-color
+[2022-02-28 16:10:29.267] > git remote
+[2022-02-28 16:10:29.275] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:29.493] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:29.499] > git show-ref -d --head
+[2022-02-28 16:10:29.519] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:32.261] > git branch -a --no-color
+[2022-02-28 16:10:32.271] > git remote
+[2022-02-28 16:10:32.276] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:32.499] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:32.507] > git show-ref -d --head
+[2022-02-28 16:10:32.524] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:36.256] > git branch -a --no-color
+[2022-02-28 16:10:36.261] > git remote
+[2022-02-28 16:10:36.265] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:36.478] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:36.483] > git show-ref -d --head
+[2022-02-28 16:10:36.492] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:39.258] > git branch -a --no-color
+[2022-02-28 16:10:39.264] > git remote
+[2022-02-28 16:10:39.270] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:39.491] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:39.498] > git show-ref -d --head
+[2022-02-28 16:10:39.506] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:42.260] > git branch -a --no-color
+[2022-02-28 16:10:42.265] > git remote
+[2022-02-28 16:10:42.269] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:42.480] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:42.485] > git show-ref -d --head
+[2022-02-28 16:10:42.494] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:45.264] > git branch -a --no-color
+[2022-02-28 16:10:45.269] > git remote
+[2022-02-28 16:10:45.274] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:45.487] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:45.492] > git show-ref -d --head
+[2022-02-28 16:10:45.503] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:48.265] > git branch -a --no-color
+[2022-02-28 16:10:48.270] > git remote
+[2022-02-28 16:10:48.275] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:48.487] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:48.493] > git show-ref -d --head
+[2022-02-28 16:10:48.501] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:51.264] > git branch -a --no-color
+[2022-02-28 16:10:51.269] > git remote
+[2022-02-28 16:10:51.274] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:51.488] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:51.494] > git show-ref -d --head
+[2022-02-28 16:10:51.501] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:54.266] > git branch -a --no-color
+[2022-02-28 16:10:54.271] > git remote
+[2022-02-28 16:10:54.276] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:54.488] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:54.494] > git show-ref -d --head
+[2022-02-28 16:10:54.502] > git status --untracked-files=all --porcelain
+[2022-02-28 16:10:57.267] > git branch -a --no-color
+[2022-02-28 16:10:57.272] > git remote
+[2022-02-28 16:10:57.276] > git reflog --format=... refs/stash --
+[2022-02-28 16:10:57.489] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:10:57.494] > git show-ref -d --head
+[2022-02-28 16:10:57.501] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:00.269] > git branch -a --no-color
+[2022-02-28 16:11:00.274] > git remote
+[2022-02-28 16:11:00.279] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:00.490] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:00.495] > git show-ref -d --head
+[2022-02-28 16:11:00.503] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:03.267] > git branch -a --no-color
+[2022-02-28 16:11:03.273] > git remote
+[2022-02-28 16:11:03.277] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:03.490] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:03.495] > git show-ref -d --head
+[2022-02-28 16:11:03.504] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:06.271] > git branch -a --no-color
+[2022-02-28 16:11:06.276] > git remote
+[2022-02-28 16:11:06.281] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:06.494] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:06.501] > git show-ref -d --head
+[2022-02-28 16:11:06.511] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:09.273] > git branch -a --no-color
+[2022-02-28 16:11:09.278] > git remote
+[2022-02-28 16:11:09.282] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:09.496] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:09.505] > git show-ref -d --head
+[2022-02-28 16:11:09.514] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:12.272] > git branch -a --no-color
+[2022-02-28 16:11:12.277] > git remote
+[2022-02-28 16:11:12.282] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:12.494] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:12.500] > git show-ref -d --head
+[2022-02-28 16:11:12.507] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:15.275] > git branch -a --no-color
+[2022-02-28 16:11:15.280] > git remote
+[2022-02-28 16:11:15.284] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:15.520] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:15.527] > git show-ref -d --head
+[2022-02-28 16:11:15.536] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:18.273] > git branch -a --no-color
+[2022-02-28 16:11:18.278] > git remote
+[2022-02-28 16:11:18.284] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:18.496] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:18.502] > git show-ref -d --head
+[2022-02-28 16:11:18.509] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:21.278] > git branch -a --no-color
+[2022-02-28 16:11:21.283] > git remote
+[2022-02-28 16:11:21.288] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:21.499] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:21.505] > git show-ref -d --head
+[2022-02-28 16:11:21.513] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:24.275] > git branch -a --no-color
+[2022-02-28 16:11:24.281] > git remote
+[2022-02-28 16:11:24.286] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:24.498] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:24.503] > git show-ref -d --head
+[2022-02-28 16:11:24.511] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:27.277] > git branch -a --no-color
+[2022-02-28 16:11:27.283] > git remote
+[2022-02-28 16:11:27.288] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:27.500] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:27.506] > git show-ref -d --head
+[2022-02-28 16:11:27.516] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:30.280] > git branch -a --no-color
+[2022-02-28 16:11:30.286] > git remote
+[2022-02-28 16:11:30.290] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:30.503] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:30.509] > git show-ref -d --head
+[2022-02-28 16:11:30.517] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:33.282] > git branch -a --no-color
+[2022-02-28 16:11:33.287] > git remote
+[2022-02-28 16:11:33.292] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:33.504] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:33.510] > git show-ref -d --head
+[2022-02-28 16:11:33.517] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:36.283] > git branch -a --no-color
+[2022-02-28 16:11:36.288] > git remote
+[2022-02-28 16:11:36.293] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:36.504] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:36.511] > git show-ref -d --head
+[2022-02-28 16:11:36.525] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:39.288] > git branch -a --no-color
+[2022-02-28 16:11:39.293] > git remote
+[2022-02-28 16:11:39.297] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:39.509] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:39.514] > git show-ref -d --head
+[2022-02-28 16:11:39.521] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:42.288] > git branch -a --no-color
+[2022-02-28 16:11:42.294] > git remote
+[2022-02-28 16:11:42.299] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:42.513] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:42.519] > git show-ref -d --head
+[2022-02-28 16:11:42.528] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:45.295] > git branch -a --no-color
+[2022-02-28 16:11:45.300] > git remote
+[2022-02-28 16:11:45.304] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:45.517] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:45.522] > git show-ref -d --head
+[2022-02-28 16:11:45.529] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:48.293] > git branch -a --no-color
+[2022-02-28 16:11:48.298] > git remote
+[2022-02-28 16:11:48.303] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:48.516] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:48.522] > git show-ref -d --head
+[2022-02-28 16:11:48.529] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:51.293] > git branch -a --no-color
+[2022-02-28 16:11:51.298] > git remote
+[2022-02-28 16:11:51.303] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:51.517] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:51.523] > git show-ref -d --head
+[2022-02-28 16:11:51.530] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:54.293] > git branch -a --no-color
+[2022-02-28 16:11:54.298] > git remote
+[2022-02-28 16:11:54.303] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:54.515] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:54.521] > git show-ref -d --head
+[2022-02-28 16:11:54.529] > git status --untracked-files=all --porcelain
+[2022-02-28 16:11:57.295] > git branch -a --no-color
+[2022-02-28 16:11:57.300] > git remote
+[2022-02-28 16:11:57.305] > git reflog --format=... refs/stash --
+[2022-02-28 16:11:57.518] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:11:57.524] > git show-ref -d --head
+[2022-02-28 16:11:57.532] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:00.294] > git branch -a --no-color
+[2022-02-28 16:12:00.303] > git remote
+[2022-02-28 16:12:00.308] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:00.518] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:00.525] > git show-ref -d --head
+[2022-02-28 16:12:00.539] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:03.294] > git branch -a --no-color
+[2022-02-28 16:12:03.299] > git remote
+[2022-02-28 16:12:03.304] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:03.517] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:03.523] > git show-ref -d --head
+[2022-02-28 16:12:03.532] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:06.300] > git branch -a --no-color
+[2022-02-28 16:12:06.305] > git remote
+[2022-02-28 16:12:06.310] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:06.556] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:06.561] > git show-ref -d --head
+[2022-02-28 16:12:06.568] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:09.297] > git branch -a --no-color
+[2022-02-28 16:12:09.302] > git remote
+[2022-02-28 16:12:09.307] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:09.520] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:09.526] > git show-ref -d --head
+[2022-02-28 16:12:09.533] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:12.302] > git branch -a --no-color
+[2022-02-28 16:12:12.307] > git remote
+[2022-02-28 16:12:12.311] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:12.524] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:12.531] > git show-ref -d --head
+[2022-02-28 16:12:12.539] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:15.302] > git branch -a --no-color
+[2022-02-28 16:12:15.307] > git remote
+[2022-02-28 16:12:15.312] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:15.524] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:15.529] > git show-ref -d --head
+[2022-02-28 16:12:15.536] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:18.304] > git branch -a --no-color
+[2022-02-28 16:12:18.309] > git remote
+[2022-02-28 16:12:18.313] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:18.526] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:18.532] > git show-ref -d --head
+[2022-02-28 16:12:18.542] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:21.305] > git branch -a --no-color
+[2022-02-28 16:12:21.310] > git remote
+[2022-02-28 16:12:21.315] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:21.535] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:21.541] > git show-ref -d --head
+[2022-02-28 16:12:21.549] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:24.360] > git branch -a --no-color
+[2022-02-28 16:12:24.365] > git remote
+[2022-02-28 16:12:24.370] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:24.593] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:24.600] > git show-ref -d --head
+[2022-02-28 16:12:24.607] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:27.342] > git branch -a --no-color
+[2022-02-28 16:12:27.348] > git remote
+[2022-02-28 16:12:27.352] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:27.566] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:27.572] > git show-ref -d --head
+[2022-02-28 16:12:27.579] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:30.309] > git branch -a --no-color
+[2022-02-28 16:12:30.314] > git remote
+[2022-02-28 16:12:30.319] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:30.529] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:30.535] > git show-ref -d --head
+[2022-02-28 16:12:30.542] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:33.308] > git branch -a --no-color
+[2022-02-28 16:12:33.313] > git remote
+[2022-02-28 16:12:33.317] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:33.529] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:33.535] > git show-ref -d --head
+[2022-02-28 16:12:33.542] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:36.309] > git branch -a --no-color
+[2022-02-28 16:12:36.314] > git remote
+[2022-02-28 16:12:36.318] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:36.544] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:36.550] > git show-ref -d --head
+[2022-02-28 16:12:36.558] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:39.311] > git branch -a --no-color
+[2022-02-28 16:12:39.317] > git remote
+[2022-02-28 16:12:39.322] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:39.536] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:39.542] > git show-ref -d --head
+[2022-02-28 16:12:39.550] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:42.312] > git branch -a --no-color
+[2022-02-28 16:12:42.317] > git remote
+[2022-02-28 16:12:42.321] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:42.531] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:42.537] > git show-ref -d --head
+[2022-02-28 16:12:42.546] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:45.313] > git branch -a --no-color
+[2022-02-28 16:12:45.318] > git remote
+[2022-02-28 16:12:45.323] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:45.535] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:45.541] > git show-ref -d --head
+[2022-02-28 16:12:45.548] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:48.316] > git branch -a --no-color
+[2022-02-28 16:12:48.321] > git remote
+[2022-02-28 16:12:48.325] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:48.538] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:48.543] > git show-ref -d --head
+[2022-02-28 16:12:48.551] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:51.322] > git branch -a --no-color
+[2022-02-28 16:12:51.327] > git remote
+[2022-02-28 16:12:51.332] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:51.546] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:51.551] > git show-ref -d --head
+[2022-02-28 16:12:51.558] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:54.321] > git branch -a --no-color
+[2022-02-28 16:12:54.326] > git remote
+[2022-02-28 16:12:54.331] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:54.543] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:54.548] > git show-ref -d --head
+[2022-02-28 16:12:54.557] > git status --untracked-files=all --porcelain
+[2022-02-28 16:12:57.321] > git branch -a --no-color
+[2022-02-28 16:12:57.327] > git remote
+[2022-02-28 16:12:57.332] > git reflog --format=... refs/stash --
+[2022-02-28 16:12:57.545] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:12:57.551] > git show-ref -d --head
+[2022-02-28 16:12:57.560] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:00.325] > git branch -a --no-color
+[2022-02-28 16:13:00.331] > git remote
+[2022-02-28 16:13:00.337] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:00.550] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:00.556] > git show-ref -d --head
+[2022-02-28 16:13:00.565] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:03.327] > git branch -a --no-color
+[2022-02-28 16:13:03.333] > git remote
+[2022-02-28 16:13:03.339] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:03.553] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:03.559] > git show-ref -d --head
+[2022-02-28 16:13:03.567] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:06.328] > git branch -a --no-color
+[2022-02-28 16:13:06.333] > git remote
+[2022-02-28 16:13:06.338] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:06.551] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:06.557] > git show-ref -d --head
+[2022-02-28 16:13:06.564] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:09.331] > git branch -a --no-color
+[2022-02-28 16:13:09.336] > git remote
+[2022-02-28 16:13:09.341] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:09.552] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:09.558] > git show-ref -d --head
+[2022-02-28 16:13:09.565] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:12.330] > git branch -a --no-color
+[2022-02-28 16:13:12.335] > git remote
+[2022-02-28 16:13:12.340] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:12.553] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:12.560] > git show-ref -d --head
+[2022-02-28 16:13:12.570] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:15.332] > git branch -a --no-color
+[2022-02-28 16:13:15.337] > git remote
+[2022-02-28 16:13:15.341] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:15.551] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:15.557] > git show-ref -d --head
+[2022-02-28 16:13:15.566] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:18.333] > git branch -a --no-color
+[2022-02-28 16:13:18.339] > git remote
+[2022-02-28 16:13:18.343] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:18.556] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:18.564] > git show-ref -d --head
+[2022-02-28 16:13:18.571] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:21.360] > git branch -a --no-color
+[2022-02-28 16:13:21.365] > git remote
+[2022-02-28 16:13:21.370] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:21.581] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:21.587] > git show-ref -d --head
+[2022-02-28 16:13:21.594] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:24.335] > git branch -a --no-color
+[2022-02-28 16:13:24.340] > git remote
+[2022-02-28 16:13:24.345] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:24.558] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:24.563] > git show-ref -d --head
+[2022-02-28 16:13:24.570] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:27.337] > git branch -a --no-color
+[2022-02-28 16:13:27.342] > git remote
+[2022-02-28 16:13:27.347] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:27.559] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:27.565] > git show-ref -d --head
+[2022-02-28 16:13:27.572] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:30.337] > git branch -a --no-color
+[2022-02-28 16:13:30.342] > git remote
+[2022-02-28 16:13:30.347] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:30.558] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:30.566] > git show-ref -d --head
+[2022-02-28 16:13:30.576] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:33.340] > git branch -a --no-color
+[2022-02-28 16:13:33.345] > git remote
+[2022-02-28 16:13:33.350] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:33.561] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:33.567] > git show-ref -d --head
+[2022-02-28 16:13:33.575] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:36.339] > git branch -a --no-color
+[2022-02-28 16:13:36.344] > git remote
+[2022-02-28 16:13:36.348] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:36.561] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:36.567] > git show-ref -d --head
+[2022-02-28 16:13:36.575] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:39.339] > git branch -a --no-color
+[2022-02-28 16:13:39.344] > git remote
+[2022-02-28 16:13:39.348] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:39.561] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:39.566] > git show-ref -d --head
+[2022-02-28 16:13:39.573] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:42.342] > git branch -a --no-color
+[2022-02-28 16:13:42.347] > git remote
+[2022-02-28 16:13:42.351] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:42.566] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:42.572] > git show-ref -d --head
+[2022-02-28 16:13:42.579] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:45.345] > git branch -a --no-color
+[2022-02-28 16:13:45.350] > git remote
+[2022-02-28 16:13:45.360] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:45.576] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:45.581] > git show-ref -d --head
+[2022-02-28 16:13:45.588] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:48.349] > git branch -a --no-color
+[2022-02-28 16:13:48.354] > git remote
+[2022-02-28 16:13:48.358] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:48.575] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:48.580] > git show-ref -d --head
+[2022-02-28 16:13:48.587] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:51.529] > git branch -a --no-color
+[2022-02-28 16:13:51.534] > git remote
+[2022-02-28 16:13:51.540] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:51.754] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:51.760] > git show-ref -d --head
+[2022-02-28 16:13:51.768] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:52.402] > git branch -a --no-color
+[2022-02-28 16:13:52.407] > git remote
+[2022-02-28 16:13:52.412] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:52.637] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:52.643] > git show-ref -d --head
+[2022-02-28 16:13:52.651] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:55.343] > git branch -a --no-color
+[2022-02-28 16:13:55.348] > git remote
+[2022-02-28 16:13:55.353] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:55.564] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:55.570] > git show-ref -d --head
+[2022-02-28 16:13:55.579] > git status --untracked-files=all --porcelain
+[2022-02-28 16:13:58.346] > git branch -a --no-color
+[2022-02-28 16:13:58.351] > git remote
+[2022-02-28 16:13:58.356] > git reflog --format=... refs/stash --
+[2022-02-28 16:13:58.569] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:13:58.575] > git show-ref -d --head
+[2022-02-28 16:13:58.583] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:01.428] > git branch -a --no-color
+[2022-02-28 16:14:01.447] > git remote
+[2022-02-28 16:14:01.472] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:01.692] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:01.701] > git show-ref -d --head
+[2022-02-28 16:14:01.713] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:02.348] > git branch -a --no-color
+[2022-02-28 16:14:02.354] > git remote
+[2022-02-28 16:14:02.359] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:02.575] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:02.583] > git show-ref -d --head
+[2022-02-28 16:14:02.591] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:05.349] > git branch -a --no-color
+[2022-02-28 16:14:05.354] > git remote
+[2022-02-28 16:14:05.358] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:05.572] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:05.578] > git show-ref -d --head
+[2022-02-28 16:14:05.590] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:08.353] > git branch -a --no-color
+[2022-02-28 16:14:08.359] > git remote
+[2022-02-28 16:14:08.365] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:08.577] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:08.583] > git show-ref -d --head
+[2022-02-28 16:14:08.594] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:11.364] > git branch -a --no-color
+[2022-02-28 16:14:11.370] > git remote
+[2022-02-28 16:14:11.375] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:11.588] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:11.595] > git show-ref -d --head
+[2022-02-28 16:14:11.605] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:14.354] > git branch -a --no-color
+[2022-02-28 16:14:14.359] > git remote
+[2022-02-28 16:14:14.364] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:14.577] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:14.582] > git show-ref -d --head
+[2022-02-28 16:14:14.590] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:17.356] > git branch -a --no-color
+[2022-02-28 16:14:17.361] > git remote
+[2022-02-28 16:14:17.366] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:17.581] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:17.587] > git show-ref -d --head
+[2022-02-28 16:14:17.596] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:20.356] > git branch -a --no-color
+[2022-02-28 16:14:20.361] > git remote
+[2022-02-28 16:14:20.365] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:20.578] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:20.584] > git show-ref -d --head
+[2022-02-28 16:14:20.591] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:23.361] > git branch -a --no-color
+[2022-02-28 16:14:23.366] > git remote
+[2022-02-28 16:14:23.370] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:23.583] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:23.589] > git show-ref -d --head
+[2022-02-28 16:14:23.596] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:26.359] > git branch -a --no-color
+[2022-02-28 16:14:26.364] > git remote
+[2022-02-28 16:14:26.369] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:26.583] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:26.589] > git show-ref -d --head
+[2022-02-28 16:14:26.597] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:29.388] > git branch -a --no-color
+[2022-02-28 16:14:29.394] > git remote
+[2022-02-28 16:14:29.399] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:29.612] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:29.618] > git show-ref -d --head
+[2022-02-28 16:14:29.626] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:32.360] > git branch -a --no-color
+[2022-02-28 16:14:32.365] > git remote
+[2022-02-28 16:14:32.369] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:32.580] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:32.585] > git show-ref -d --head
+[2022-02-28 16:14:32.594] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:35.358] > git branch -a --no-color
+[2022-02-28 16:14:35.364] > git remote
+[2022-02-28 16:14:35.369] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:35.590] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:35.596] > git show-ref -d --head
+[2022-02-28 16:14:35.610] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:38.374] > git branch -a --no-color
+[2022-02-28 16:14:38.380] > git remote
+[2022-02-28 16:14:38.385] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:38.599] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:38.605] > git show-ref -d --head
+[2022-02-28 16:14:38.611] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:41.364] > git branch -a --no-color
+[2022-02-28 16:14:41.369] > git remote
+[2022-02-28 16:14:41.376] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:41.591] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:41.596] > git show-ref -d --head
+[2022-02-28 16:14:41.603] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:44.365] > git branch -a --no-color
+[2022-02-28 16:14:44.370] > git remote
+[2022-02-28 16:14:44.375] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:44.588] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:44.593] > git show-ref -d --head
+[2022-02-28 16:14:44.600] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:47.368] > git branch -a --no-color
+[2022-02-28 16:14:47.373] > git remote
+[2022-02-28 16:14:47.378] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:47.591] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:47.597] > git show-ref -d --head
+[2022-02-28 16:14:47.605] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:50.372] > git branch -a --no-color
+[2022-02-28 16:14:50.377] > git remote
+[2022-02-28 16:14:50.381] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:50.594] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:50.599] > git show-ref -d --head
+[2022-02-28 16:14:50.606] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:53.370] > git branch -a --no-color
+[2022-02-28 16:14:53.376] > git remote
+[2022-02-28 16:14:53.381] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:53.594] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:53.600] > git show-ref -d --head
+[2022-02-28 16:14:53.608] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:56.373] > git branch -a --no-color
+[2022-02-28 16:14:56.378] > git remote
+[2022-02-28 16:14:56.382] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:56.595] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:56.600] > git show-ref -d --head
+[2022-02-28 16:14:56.608] > git status --untracked-files=all --porcelain
+[2022-02-28 16:14:59.373] > git branch -a --no-color
+[2022-02-28 16:14:59.378] > git remote
+[2022-02-28 16:14:59.383] > git reflog --format=... refs/stash --
+[2022-02-28 16:14:59.595] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:14:59.600] > git show-ref -d --head
+[2022-02-28 16:14:59.608] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:02.377] > git branch -a --no-color
+[2022-02-28 16:15:02.383] > git remote
+[2022-02-28 16:15:02.389] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:02.601] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:02.607] > git show-ref -d --head
+[2022-02-28 16:15:02.615] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:05.380] > git branch -a --no-color
+[2022-02-28 16:15:05.386] > git remote
+[2022-02-28 16:15:05.390] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:05.609] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:05.616] > git show-ref -d --head
+[2022-02-28 16:15:05.628] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:08.379] > git branch -a --no-color
+[2022-02-28 16:15:08.384] > git remote
+[2022-02-28 16:15:08.389] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:08.602] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:08.608] > git show-ref -d --head
+[2022-02-28 16:15:08.618] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:11.380] > git branch -a --no-color
+[2022-02-28 16:15:11.385] > git remote
+[2022-02-28 16:15:11.391] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:11.604] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:11.610] > git show-ref -d --head
+[2022-02-28 16:15:11.619] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:14.379] > git branch -a --no-color
+[2022-02-28 16:15:14.385] > git remote
+[2022-02-28 16:15:14.390] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:14.606] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:14.612] > git show-ref -d --head
+[2022-02-28 16:15:14.620] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:17.379] > git branch -a --no-color
+[2022-02-28 16:15:17.384] > git remote
+[2022-02-28 16:15:17.388] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:17.601] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:17.607] > git show-ref -d --head
+[2022-02-28 16:15:17.616] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:20.380] > git branch -a --no-color
+[2022-02-28 16:15:20.385] > git remote
+[2022-02-28 16:15:20.390] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:20.603] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:20.610] > git show-ref -d --head
+[2022-02-28 16:15:20.618] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:23.382] > git branch -a --no-color
+[2022-02-28 16:15:23.387] > git remote
+[2022-02-28 16:15:23.391] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:23.604] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:23.610] > git show-ref -d --head
+[2022-02-28 16:15:23.619] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:26.384] > git branch -a --no-color
+[2022-02-28 16:15:26.389] > git remote
+[2022-02-28 16:15:26.394] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:26.608] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:26.613] > git show-ref -d --head
+[2022-02-28 16:15:26.621] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:29.387] > git branch -a --no-color
+[2022-02-28 16:15:29.392] > git remote
+[2022-02-28 16:15:29.397] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:29.609] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:29.614] > git show-ref -d --head
+[2022-02-28 16:15:29.621] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:32.400] > git branch -a --no-color
+[2022-02-28 16:15:32.406] > git remote
+[2022-02-28 16:15:32.411] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:32.627] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:32.632] > git show-ref -d --head
+[2022-02-28 16:15:32.640] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:35.385] > git branch -a --no-color
+[2022-02-28 16:15:35.390] > git remote
+[2022-02-28 16:15:35.394] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:35.609] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:35.621] > git show-ref -d --head
+[2022-02-28 16:15:35.631] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:38.386] > git branch -a --no-color
+[2022-02-28 16:15:38.391] > git remote
+[2022-02-28 16:15:38.396] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:38.609] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:38.614] > git show-ref -d --head
+[2022-02-28 16:15:38.622] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:41.389] > git branch -a --no-color
+[2022-02-28 16:15:41.394] > git remote
+[2022-02-28 16:15:41.399] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:41.611] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:41.617] > git show-ref -d --head
+[2022-02-28 16:15:41.626] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:44.390] > git branch -a --no-color
+[2022-02-28 16:15:44.395] > git remote
+[2022-02-28 16:15:44.399] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:44.610] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:44.615] > git show-ref -d --head
+[2022-02-28 16:15:44.623] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:47.390] > git branch -a --no-color
+[2022-02-28 16:15:47.395] > git remote
+[2022-02-28 16:15:47.400] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:47.614] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:47.620] > git show-ref -d --head
+[2022-02-28 16:15:47.627] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:50.401] > git branch -a --no-color
+[2022-02-28 16:15:50.407] > git remote
+[2022-02-28 16:15:50.413] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:50.628] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:50.633] > git show-ref -d --head
+[2022-02-28 16:15:50.640] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:53.395] > git branch -a --no-color
+[2022-02-28 16:15:53.400] > git remote
+[2022-02-28 16:15:53.405] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:53.626] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:53.632] > git show-ref -d --head
+[2022-02-28 16:15:53.639] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:56.394] > git branch -a --no-color
+[2022-02-28 16:15:56.400] > git remote
+[2022-02-28 16:15:56.406] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:56.617] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:56.623] > git show-ref -d --head
+[2022-02-28 16:15:56.630] > git status --untracked-files=all --porcelain
+[2022-02-28 16:15:59.396] > git branch -a --no-color
+[2022-02-28 16:15:59.402] > git remote
+[2022-02-28 16:15:59.407] > git reflog --format=... refs/stash --
+[2022-02-28 16:15:59.617] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:15:59.623] > git show-ref -d --head
+[2022-02-28 16:15:59.630] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:00.151] > git branch -a --no-color
+[2022-02-28 16:16:00.157] > git remote
+[2022-02-28 16:16:00.176] > git reflog --format=... refs/stash --
+[2022-02-28 16:16:00.394] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:16:00.400] > git show-ref -d --head
+[2022-02-28 16:16:00.408] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:03.400] > git branch -a --no-color
+[2022-02-28 16:16:03.406] > git remote
+[2022-02-28 16:16:03.410] > git reflog --format=... refs/stash --
+[2022-02-28 16:16:03.624] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:16:03.630] > git show-ref -d --head
+[2022-02-28 16:16:03.637] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:06.400] > git branch -a --no-color
+[2022-02-28 16:16:06.405] > git remote
+[2022-02-28 16:16:06.410] > git reflog --format=... refs/stash --
+[2022-02-28 16:16:06.622] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:16:06.628] > git show-ref -d --head
+[2022-02-28 16:16:06.636] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:09.400] > git branch -a --no-color
+[2022-02-28 16:16:09.406] > git remote
+[2022-02-28 16:16:09.411] > git reflog --format=... refs/stash --
+[2022-02-28 16:16:09.623] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:16:09.630] > git show-ref -d --head
+[2022-02-28 16:16:09.639] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:10.292] > git branch -a --no-color
+[2022-02-28 16:16:10.297] > git remote
+[2022-02-28 16:16:10.302] > git reflog --format=... refs/stash --
+[2022-02-28 16:16:10.516] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-02-28 16:16:10.522] > git show-ref -d --head
+[2022-02-28 16:16:10.531] > git status --untracked-files=all --porcelain
+[2022-02-28 16:16:12.097] Stopped watching repo: /home/ubuntu

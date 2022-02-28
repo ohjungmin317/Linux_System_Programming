@@ -93,3 +93,23 @@ git pull --rebase origin branchname
 git push -u origin main'
 
 
+git push -u origin main
+git pull origin master
+git push origin master
+git push -f origin master
+git push origin master
+git remote -v
+git push -u test main
+git branch -m master main
+git push -f test  master
+git push -u test main
+git remote add test  https://github.com/ohjungmin317/Linux_System_Programming.git
+git remote add origin https://github.com/ohjungmin317/Linux_System_Programming.git
+git remote -v
+git push origin master
+git pull --rebase origin branchname
+git pull origin main --allow-unrelated-histories
+git push origin master
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git pull origin main --allow-unrelated-histories
